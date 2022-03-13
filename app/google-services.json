@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "806805307208",
+    "project_id": "trackandtrace-7b525",
+    "storage_bucket": "trackandtrace-7b525.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:806805307208:android:a946d2b598355bbe533d7d",
+        "android_client_info": {
+          "package_name": "com.example.trackandtrace"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "806805307208-bmjv5a93dsmvt2ei12lkgbqlfbrvi9l2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvrfA17RAyqa6_iTtpB1_Xlmb9EG5onVA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "806805307208-bmjv5a93dsmvt2ei12lkgbqlfbrvi9l2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
